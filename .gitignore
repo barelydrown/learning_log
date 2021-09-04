@@ -1,0 +1,14 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+# PyCharm
+.DS_Store
+.idea
+
+/learning_log/settings.py
+/ll_venv/
+/learning_logs/migrations/
